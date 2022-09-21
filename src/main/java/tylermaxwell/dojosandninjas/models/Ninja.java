@@ -20,6 +20,7 @@ public class Ninja {
     @JoinColumn(name="dojo_id")
     private Dojo dojo;
 
+    public Ninja() {}
     public Ninja(String firstName, String lastName, int age, Dojo dojo) {
         this.firstName = firstName;
         this.lastName = lastName;
@@ -83,5 +84,4 @@ public class Ninja {
         this.dojo = dojo;
     }
 
-    public Ninja() {}
 }
