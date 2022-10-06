@@ -1,5 +1,7 @@
 # Dojos and Ninjas
 
+## Solution
+
 ## Tasks
 
 - [ ] Allow users to create a new dojo.
