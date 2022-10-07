@@ -39,12 +39,6 @@
             <td>
                 <a href="/ninjas/edit/${ninja.id}">edit</a>
             </td>
-            <td>
-                <form action="/expenses/${expense.id}" method="post">
-                    <input type="hidden" name="_method" value="delete">
-                    <input type="submit" value="Delete">
-                </form>
-            </td>
         </tr>
     </c:forEach>
     </tbody>
