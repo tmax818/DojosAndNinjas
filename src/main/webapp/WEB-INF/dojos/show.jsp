@@ -50,7 +50,7 @@
     </tbody>
 </table>
 
-<a href="/ninjas/new">New Ninja</a>
+<a href="/ninjas">New Ninja</a>
 </body>
 </html>
 
